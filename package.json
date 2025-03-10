@@ -29,7 +29,7 @@
     "workbox-webpack-plugin": "^7.0.0"
   },
   "dependencies": {
-    "dexie": "^4.0.1",
+    "dexie": "^4.0.11",
     "rxjs": "^7.8.1"
   }
 }
